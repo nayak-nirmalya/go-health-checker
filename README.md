@@ -2,6 +2,8 @@
 
 A tiny tool that checks wheather a website is running or is down.
 
+Credits: [Akhil Sharma](https://github.com/AkhilSharma90)
+
 ## Installation
 
 > This project needs to Go (At least 1.13) to compile.
